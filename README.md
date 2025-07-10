@@ -1,2 +1,3 @@
-# prediction_CYP3A4_inhibition
-신약개발경진대회 
+### CYP3A4 효소 저해 예측모델 개발
+
+화합물의 구조 및 CYP3A4 효소 저해율(%inhibition)에 대한 학습용 데이터 1,681종을 이용해 예측 모델을 개발
